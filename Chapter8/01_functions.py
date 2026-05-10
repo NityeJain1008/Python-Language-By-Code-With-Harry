@@ -12,6 +12,7 @@ def avg():
     c = int(input("Enter the no."))
 
     average = (a+b+c)/3 ; 
+    
     print(average) ; 
     print("thank you ") ; 
 
